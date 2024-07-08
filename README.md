@@ -1,1 +1,2 @@
 # AI-RadTools
+Welcome to [AI-RadTools](/AI-RadTools/) documentation. The content of this repository is intended to act as a host for various methodologies that can be utilized for radiology image analysis. Various libraries, such as pyradiomics, will be leveraged to build semi-automated platform for feature extraction, segmentation tasks, and model building. The goal is to develop a set of functions that can easily be modified to various tasks, and provide and update templates used for other projects.
